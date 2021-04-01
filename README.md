@@ -7,4 +7,4 @@ Usage logger plugin for Insomnia
 
 ## Set up
 - Install dependencies using `npm i`
-- Place usage-logger folder inside ~/.config/Insomnia/plugins/
+- Place usage-logger folder inside `~/.config/Insomnia/plugins/`
